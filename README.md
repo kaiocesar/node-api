@@ -1,4 +1,4 @@
-Node.js API 
+Node.js API RestFul
 ==========
 Api simples de recurso para aplicativos de pequeno porte.
 
@@ -12,7 +12,7 @@ Autor: Kaio Cesar
 
 ##### Instalação
 - rode o comando `npm install`
-- execute node server.js  
+- execute o comando `node server.js`
 
 "aready!"
 
